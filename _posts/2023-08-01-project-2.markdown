@@ -1,0 +1,26 @@
+---
+title: Boats Shop
+projectUrl: https://www.figma.com/design/JyJmq5yl3F11n4ExPy9d4g/Boats-shop?node-id=0-1&t=p8jlc480N8r4tS2Y-1
+subtitle: UI/UX Design
+layout: default
+modal-id: 2 # important to specify for each post an unique modal id
+date: 2023-08-01
+project-date: August 2023
+client: Skillshare Courses Self-education
+category: UX Design
+thumbnail: boats-shop/thumbnail.png
+img: boats-shop/0.png 
+alt: thumbnail
+description: Living near the sea, I often see different yachts, which made me really interested in them. When I looked at websites about yachts, I noticed many of them were poorly designed and not very easy to use. That’s why I decided to create my own website design that would be clear, visually attractive, and easy to navigate. The goal was to help people learn more about yachts and explore options for buying them in a way that feels simple and enjoyable.
+highlights:
+    - description: I carefully chose the colors, images, and fonts, taking inspiration from successful website designs and adapting them to fit the yacht theme. I also created a custom logo and designed simple, easy-to-use navigation to make the site clear and enjoyable for users. The goal was to combine a beautiful look with simple functionality, ensuring the site is both appealing and practical for visitors.
+    - img: boats-shop/1.png
+      alt: Landing Page
+      description: Landing Page
+    - img: boats-shop/2.png
+      alt: Boat Details Page
+      description: d2
+    - img: boats-shop/3.png
+      alt: Login and Contact Pages
+      description: Login and Contact Pages
+---

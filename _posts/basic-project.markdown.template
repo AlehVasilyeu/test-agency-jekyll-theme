@@ -1,0 +1,25 @@
+---
+title: Project
+projectUrl: https://ux-design-projects.io/project
+subtitle: Subtitle
+layout: default
+modal-id: 111
+date: 2024-10-12
+project-date: November 2024
+client: Client Name
+category: Category
+thumbnail: hanna-craft-beer-thumbnail.png
+img: hanna-craft-beer.png
+alt: image-alt
+description: Some summary of the project
+highlights:
+    - img: hanna-craft-beer.png
+      alt: image-alt
+      description: Some highlight 1
+    - img: hanna-craft-beer.png
+      alt: image-alt
+      description: Some highlight 2
+    - img: hanna-craft-beer.png
+      alt: image-alt
+      description: Some highlight 3
+---

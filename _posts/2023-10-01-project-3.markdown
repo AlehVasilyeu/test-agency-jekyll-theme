@@ -1,0 +1,26 @@
+---
+title: Event App
+projectUrl: https://www.figma.com/design/0KgyBhq9m5EiUQFfq8eIJe/Event-App?node-id=0-1&t=nHtC1E3ha1iD8CjU-1
+subtitle: UI/UX Design
+layout: default
+modal-id: 3 # important to specify for each post an unique modal id
+date: 2023-10-01
+project-date: October 2023
+client: Skillshare Courses Self-education
+category: UX Design
+thumbnail: event-app/thumbnail.png
+img: event-app/0.png 
+alt: thumbnail
+description: The app's design was created to make it easy for users to navigate, search for concerts or performers, and purchase tickets with a simple and smooth process. Special attention was given to creating a clear and user-friendly interface that enhances the overall experience. Additionally, a visually appealing social media banner was designed to promote the app and attract more users.
+highlights:
+    - description: Creating an app design is a crucial process that involves thinking through every detail to ensure it’s both easy to use and visually appealing. For this design, I carefully selected a harmonious color palette, readable and stylish fonts, and user-friendly functional features. The goal was to create an intuitive interface that not only looks great but also provides a smooth and enjoyable experience for users at every step.
+    - img: event-app/1.png
+      alt: Application Screens
+      description: Application Screens
+    - img: event-app/2.png
+      alt: Profile Screen
+      description: Profile Screen
+    - img: event-app/3.png
+      alt: Components Overview
+      description: Components Overview
+---

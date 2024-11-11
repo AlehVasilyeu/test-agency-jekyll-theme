@@ -19,7 +19,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 2rem;
     line-height: 1.75;
 }
 
@@ -338,7 +338,7 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
@@ -352,6 +352,10 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#portfolio {
+    margin-bottom: -150px;
 }
 
 #portfolio .portfolio-item {
@@ -774,7 +778,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 0 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -806,6 +810,9 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
     margin-bottom: 30px;
 }
 
@@ -817,6 +824,7 @@ ul.social-buttons li a:active {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    z-index: 777;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -844,6 +852,12 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+@media (max-width: 768px) {
+    .portfolio-modal .modal-content {
+        padding: 100px 0;
+    }
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
@@ -853,6 +867,8 @@ ul.social-buttons li a:active {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
 }
+
+
 
 img::selection {
     background: 0 0;

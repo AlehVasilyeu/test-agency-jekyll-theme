@@ -1,0 +1,23 @@
+---
+title: Smart Home App
+projectUrl: https://www.figma.com/design/r2jNckYWNNzwIlosKN6AVw/Smarthome?node-id=0-1&t=PagF6sKc0fLbr6QV-1
+subtitle: UI/UX Design
+layout: default
+modal-id: 4 # important to specify for each post an unique modal id
+date: 2024-09-01
+project-date: September 2024
+client: Skillshare Courses Self-education
+category: UX Design
+thumbnail: smart-home-app/thumbnail.png
+img: smart-home-app/0.png
+alt: thumbnail
+description: The growing popularity of artificial intelligence in both work and daily life sparked my interest in designing a smart home application. The app would allow users to control and manage their home directly from their phone, offering convenience and efficiency through an intuitive interface.
+highlights:
+    - description: This app is designed to manage essential home functions, allowing users to control temperature, lighting, and its intensity. It also enables scheduling for automated home operations, transforming the app into an indispensable assistant. Users can set specific times for lights to turn on and off and, even when away from home, check the status of lights or water. If needed, adjustments can be made remotely, providing convenience and peace of mind through a seamless and intuitive interface.
+    - img: smart-home-app/1.png
+      alt: App Screens Part 1
+      description: App Screens Part 1
+    - img: smart-home-app/2.png
+      alt: App Screens Part 2
+      description: App Screens Part 2
+---

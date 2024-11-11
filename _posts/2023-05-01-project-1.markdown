@@ -1,0 +1,44 @@
+---
+title: Craft Beer Shop
+projectUrl: https://www.figma.com/design/DQvqo2AG3yUt1AvskLXa8Y/Craft-Beer?node-id=33-15&t=d7DLInywNrk5PSOz-1
+subtitle: UI/UX Design
+layout: default
+modal-id: 1 # important to specify for each post an unique modal id
+date: 2023-05-01
+project-date: May 2023
+client: Skillshare Courses Self-education
+category: UX Design
+thumbnail: craft-beer-shop/thumbnail.png
+img: craft-beer-shop/0.png 
+alt: thumbnail
+description: It was an experiment, on the site, using a random definition of the application theme, it was necessary to create an  application on the topic that the site would set.
+highlights:
+    - description: This app design was created during a UX/UI design course on Skillshare. The idea was to design a simple and user-friendly mobile app for exploring and buying beer. The interface is intuitive, making it easy for users to browse different types of beer, learn more about each one, and make purchases quickly. Special attention was given to creating a clean layout, smooth navigation, and features that enhance the overall user experience.
+    - img: craft-beer-shop/1.png
+      alt: App Screens
+      description: App Screens
+    - img: craft-beer-shop/2.png
+      alt: App Screen Mockups
+      description: During the design process, a wireframe was created to plan the app's layout and structure. Different plugins were used to add functionality and make wireframe alive. The app went through several rounds of evaluation to improve the user experience.
+    - img: craft-beer-shop/3.png
+      alt: App Screen Mockups
+      description: App Screen Mockups
+    - img: craft-beer-shop/4.png
+      alt: Components
+      description: Components
+    - img: craft-beer-shop/5.png
+      alt: Desktop Landing Page
+      description: Desktop Landing Page
+    - img: craft-beer-shop/6.png
+      alt: Desktop Pages
+      description: A visual version of the app's website was also created for users who prefer accessing it on a computer.
+    - img: craft-beer-shop/7.png
+      alt: Mobile App Page
+      description: Mobile App Page
+    - img: craft-beer-shop/8.png
+      alt: Mobile App Page
+      description: Mobile App Page
+    - img: craft-beer-shop/9.png
+      alt: Mobile App Page
+      description: Mobile App Page
+---

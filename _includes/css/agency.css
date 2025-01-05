@@ -354,10 +354,6 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio {
-    margin-bottom: -150px;
-}
-
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -880,4 +876,25 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.skill-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-container > .img-circle {
+    width: 120px;
+    height: 120px;
+}
+
+.skill-container > .img-normal {
+    width: 120px;
+    height: 120px;
+}
+
+.skill-heading {
+    margin: 15px 0;
+    text-transform: none;
 }

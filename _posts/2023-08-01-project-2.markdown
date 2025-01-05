@@ -19,7 +19,7 @@ highlights:
       description: Landing Page
     - img: boats-shop/2.png
       alt: Boat Details Page
-      description: d2
+      description: Boat Details Page
     - img: boats-shop/3.png
       alt: Login and Contact Pages
       description: Login and Contact Pages
